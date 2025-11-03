@@ -38,7 +38,7 @@ const paymentSchema = new mongoose.Schema(
 
 // Index for efficient querying
 paymentSchema.index({ orderId: 1 });
-paymentSchema.index({ transactionId: 1 });
+// transactionId already has unique index (line 18)
 
 const Payment = mongoose.model('Payment', paymentSchema);
 
