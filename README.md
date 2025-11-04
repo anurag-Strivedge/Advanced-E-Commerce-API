@@ -2,6 +2,20 @@
 
 A production-ready, scalable e-commerce API built with Node.js, Express, and MongoDB. This API demonstrates advanced concepts including complex state management, atomic transactions, inventory reservation, and asynchronous job processing.
 
+---
+
+## 🚀 **LIVE API DOCUMENTATION**
+
+### **📖 Interactive Swagger UI - Test All Endpoints Now!**
+
+**Production:** **[https://advanced-e-commerce-api-production.up.railway.app/api-docs](https://advanced-e-commerce-api-production.up.railway.app/api-docs)** 🔥
+
+**Local Development:** **[http://localhost:5000/api-docs](http://localhost:5000/api-docs)**
+
+> 💡 **No setup required!** Try all API endpoints directly in your browser with our fully interactive Swagger documentation.
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
