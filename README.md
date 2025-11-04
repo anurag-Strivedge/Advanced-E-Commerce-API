@@ -14,6 +14,12 @@ A production-ready, scalable e-commerce API built with Node.js, Express, and Mon
 
 > 💡 **No setup required!** Try all API endpoints directly in your browser with our fully interactive Swagger documentation.
 
+### **📦 Postman Collection**
+
+**Download:** **[Postman Collection (JSON)](https://raw.githubusercontent.com/anurag-Strivedge/Advanced-E-Commerce-API/main/Postman_Collection.json)** ⚡
+
+> Right-click → Save As, then import into Postman. Includes all endpoints with pre-configured examples and auto-saved tokens!
+
 ---
 
 ## Table of Contents
