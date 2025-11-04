@@ -62,12 +62,12 @@ Use the /auth/register and /auth/login endpoints to get a token.
     },
     servers: [
       {
-        url: 'https://advanced-e-commerce-api-production.up.railway.app/api',
-        description: 'Production server (Railway)',
-      },
-      {
         url: 'http://localhost:5000/api',
         description: 'Development server',
+      },
+      {
+        url: 'https://advanced-e-commerce-api-production.up.railway.app/api',
+        description: 'Production server (Railway)',
       },
     ],
     components: {
